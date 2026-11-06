@@ -1,0 +1,12 @@
+# Guía del curso (documento del profesor, no se redistribuye)
+Proyecto Final*.pdf
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+venv/
+
+# Office temporales
+~$*
